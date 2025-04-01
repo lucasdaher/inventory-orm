@@ -1,0 +1,7 @@
+# Dependências e pacotes instalados
+node_modules
+node_modules/*
+
+# Dist e arquivos de saída
+dist
+dist/*
