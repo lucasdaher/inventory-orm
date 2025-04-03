@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS gerenciamento_inventario;
-CREATE DATABASE gerenciamento_inventario;
-USE gerenciamento_inventario;
+DROP DATABASE IF EXISTS inventario_db;
+CREATE DATABASE inventario_db;
+USE inventario_db;
